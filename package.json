@@ -6,6 +6,7 @@
   "author": "Carlos H. Lopez Carrillo <carlos.lopez@tress.com.mx>",
   "license": "MIT",
   "dependencies": {
+    "antd": "^4.1.3",
     "react": "^16.13.1"
   },
   "scripts": {

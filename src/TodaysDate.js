@@ -1,4 +1,10 @@
 import React from "react";
+import { Input } from "antd";
 
-const TodaysDate = () => 
-  <div>{`Today's date is ${Date()}`}</div>;export default TodaysDate;
+const TodaysDate = () => (
+  <div>
+    {`Today's date is ${Date()}`}
+    <Input />
+  </div>
+);
+export default TodaysDate;
